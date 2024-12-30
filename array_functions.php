@@ -1,6 +1,6 @@
 
 
-// find 1st element of an array by callback
+// find 1st element of an array by callback test
 $numbers = [1, 2, 3, 4, 5, 6];
 $firstMatch = array_find(
     array: $numbers, 
